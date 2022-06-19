@@ -87,7 +87,7 @@
                <version>2.22.1</version>
                <configuration>
                    <suiteXmlFiles>
-                       <suiteXmlFile>..\April22-SeleniumProject\src\test\resources\Asus-runner.xml</suiteXmlFile>
+                       <suiteXmlFile>C:\Users\HP\Desktop\FORME\LastWork\src\test\resources\ROG-runner.xml</suiteXmlFile>
                    </suiteXmlFiles>
                </configuration>
            </plugin>
